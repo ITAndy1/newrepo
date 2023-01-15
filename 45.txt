@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hdahhsckhcskcksckjkjc
+=======
+abcde
+>>>>>>> 9bb40a8 (testing merge conflict part 2)
